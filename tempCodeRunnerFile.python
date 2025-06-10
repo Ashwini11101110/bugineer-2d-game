@@ -1,0 +1,6 @@
+class emp:
+    def __init__(self,name=None, sal=None, id=None):
+        self.name=name
+        self.sal=sal
+        self.id=id
+        
